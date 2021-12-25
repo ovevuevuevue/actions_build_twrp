@@ -7,14 +7,14 @@ on:
 env:
   TWRP_SSHKEY: git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   TWRP_BRANCH: twrp-9.0
-  GIT_USERNAME: Pinkdoge
-  DT_URL: https://github.com/Pinkdoge/twrp_device_huawei_kiwi
-  DT_BRANCH: treble-9.0
-  DT_PATH: device/huawei/kiwi
-  DEVICENAME: kiwi
+  GIT_USERNAME: ovevuevuevue
+  DT_URL: https://github.com/TeamWin/android_device_samsung_j5xnlte.git
+  DT_BRANCH: android-9.0
+  DT_PATH: device/samsung/j5xnlte
+  DEVICENAME: j5xnlte
   FIX_BRANCH: android-9.0
   FIX_PRODUCT: true
-  FIX_DTBCM: false
+  FIX_DTBCM: true
   FIX_BUSYBOX: true
   USE_OWN_DT: true
 
