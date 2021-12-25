@@ -7,7 +7,7 @@
   "dt_url": "https://github.com/TeamWin/android_device_samsung_j5xnlte.git",
   "dt_branch": "android-9.0",
   "dt_remote": "github",
-  "dt_path": "device/samsung/j5xnlte",
+  "dt_path": "device/TeamWin/android_device_samsung_j5xnlte",
   "device_code": "j5xnlte",
   "fix_product": true,
   "fix_misscom": true,
